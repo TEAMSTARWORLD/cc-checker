@@ -7,7 +7,7 @@
         "Bot"
     ],
     "website": "https://reboot13.hashnode.dev",
-    "repository": "https://github.com/reboot13-git/bin-checker-bot",
+    "repository": "https://github.com/TEAMSTARWORLD/cc-checker",
     "success_url": "/",
     "env": {
         "API_TOKEN": {
