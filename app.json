@@ -20,7 +20,7 @@
     "formation": {
         "web": {
             "quantity": 1,
-            "size": "worker"
+            "size": "Eco"
         }
     },
     "image": "heroku/php"
